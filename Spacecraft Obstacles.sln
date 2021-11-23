@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spacecraft Obstacles", "Spacecraft Obstacles.csproj", "{C5BEF9F8-4C69-7AD9-C947-62E31488C7CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5BEF9F8-4C69-7AD9-C947-62E31488C7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BEF9F8-4C69-7AD9-C947-62E31488C7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BEF9F8-4C69-7AD9-C947-62E31488C7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BEF9F8-4C69-7AD9-C947-62E31488C7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
